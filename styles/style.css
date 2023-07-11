@@ -3,7 +3,9 @@
     background-color: rgba(229, 84, 115, 0.10);
     height: 800px;
     align-items: center;
+    justify-content: space-around;
     padding: 0 120px;
+    padding-top:50px;
 }
 
 .headline {
@@ -229,6 +231,7 @@
     color: #272727;
     font-size: 40px;
     font-weight: 800;
+    margin-bottom: 5px;
 }
 
 .latest-deals-desc {
